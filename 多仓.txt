@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"💚自用优选仓","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/1.txt"},
-{"sourceName":"💛备用聚合仓","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/2.txt"},
-{"sourceName":"❤️学习仓库仓","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/3.txt"},
-{"sourceName":"🥕预备仓库仓","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/4.txt"}
+{"sourceName":"💚自用优选","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/1.txt"},
+{"sourceName":"💛备用聚合","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/2.txt"},
+{"sourceName":"❤️学习仓库","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/3.txt"},
+{"sourceName":"🥕预备仓库","sourceUrl":"https://github.com/bluestarrysea/Starry-sea/blob/main/4.txt"}
 ]}
