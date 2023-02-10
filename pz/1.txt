@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url":   "https://肥猫.love",
+            "name": "🔔肥猫线路"
+        },
+        {
             "url":   "https://hutool.ml/tang",
             "name": "🔔唐三线路"
         },
