@@ -1,8 +1,8 @@
 {
     "urls": [
         {
-            "url":   "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🔔蜂蜜线路"
+            "url":   "https://hutool.ml/tang",
+            "name": "🔔唐三线路"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
@@ -13,7 +13,7 @@
             "name": "🚀肥猫线路"
         },          
         {
-            "url": "https://hutool.ml/tang",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/box.json",
             "name": "🚀唐三线路"
         },  
         {
@@ -33,7 +33,7 @@
             "name": "🚀巧记线路"
         },
        {
-            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json",
+            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/0731.json",
             "name": "🚀胖虎线路"
         },
         {
