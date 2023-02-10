@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"💚优选自用","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
-{"sourceName":"💛网络分享","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
-{"sourceName":"❤️聚合分享","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
-{"sourceName":"🥕预备仓库","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"}
+{"sourceName":"💚优选自用","sourceUrl":"https://raw.githubusercontent.com/bluestarrysea/Starry-sea/main/pz/1.txt"},
+{"sourceName":"💛网络分享","sourceUrl":"https://raw.githubusercontent.com/bluestarrysea/Starry-sea/main/pz/2.txt"},
+{"sourceName":"❤️聚合分享","sourceUrl":"https://raw.githubusercontent.com/bluestarrysea/Starry-sea/main/pz/3.txt"},
+{"sourceName":"🥕预备仓库","sourceUrl":"https://raw.githubusercontent.com/bluestarrysea/Starry-sea/main/pz/4.txt"}
 ]}
