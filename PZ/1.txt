@@ -78,7 +78,7 @@
         },
         {
             "url": "https://agit.ai/945KM/TVBox/raw/branch/master/1.json",
-            "name": "🚀945KM线路"
+            "name": "🚀945线路"
         }
     ]
 }
